@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccounts_wqeqwrw_name": {
-            "defaultValue": "wqeqwrw",
+            "defaultValue": "alamakota",
             "type": "String"
         }
     },
